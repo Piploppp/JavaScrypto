@@ -97,3 +97,4 @@ nowx = 2038;
 console.log(nowx)
 console.log(now - 1991 > now - 2018);
 
+let Frangs = "Hola";
